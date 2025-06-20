@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>
+            MY RESUME
+        </title>
+    </head>
+    <body>
+        <h2>Abdul Mateen</h2>
+        <image src="ABD.png.jpg"height="200"alt="personal image"/>
+    <hr/>
+    <h2> SUMMERY:</h2>
+    <P>My name is ABADUL MATEEN.I'am a full stack web developer.Also iam leraning the new skills.I have completed my FSC EXAM.NOW IAM weaiting for the result and also applying in BS Cyber  Security in the universities.</P>
+    <hr/>
+    <h2>EDUCATION:</h2>
+    <ul>
+        <h3> MATRICAULATION:</h3>
+        <h4>FROM:2021 TO:2023</h4>
+                <LI> <P>I have completed From BAHRIA FOUNDATION COLLEGE
+            with 823/1100 marks and my percentage was 74%.
+            
+            <h3> F.S.C Computer Science:</h3>
+            <h4> FROM:2023 TO:not declared</h4>
+            <li> I have completed my fsc from HCCS EDUCATION SYSTEM and i have passed my fsc part 1 exam with 369/550 and fsc part 2 result is awating.</li>
+
+        </P></LI>
+    </ul>
+    <hr/>
+    <h2> WORKING EXPERIANCE:</h2>
+    <P>Till now I have no proper working experiance.Because Iam not qualified but iam  completing my education and also learning and imporoving my skills.</P>
+     <hr/>
+    <h2> HOBBIES</h2>
+<ul> 
+    <li>FOOTBALL</li>
+    <li> BOXING</li>
+    <li>JOGGING</li>
+
+</ul>
+<hr/>
+<h2>SKILLS:</h2>
+<ol>
+    <li>WEB DEVELOPING</li>
+    <li>COMMUNICATION </li>
+    <li> DIGITAL MARKETING </li>
+    <li> PROBLEM HANDLING</li>
+    <li>TEAM WORK</li>
+</ol>
+<hr/>
+<a href="./4.1+Webpages (1)/public/contact.html">Contact Me</a>
+<hr/>
+<a href="./4.1+Webpages (1)/public/about.html">About Me</a>
+
+ </body>
